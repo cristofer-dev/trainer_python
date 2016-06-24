@@ -3,9 +3,9 @@
 
 ### Elementos Básicos
 - Variables
+- Comentarios
 - Tipos de datos
 - Operadores Aritméticos
-- Comentarios
 - Tipos de datos Complejos
   - Tuplas
   - Listas
