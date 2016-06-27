@@ -2,9 +2,8 @@
 ## Apuntes Básicos
 
 ### Elementos Básicos
-- Variables
-- Comentarios
-- Tipos de datos
+- 101 Variables y Comentarios
+- 102 Tipos de datos
 - Operadores Aritméticos
 - Tipos de datos Complejos
   - Tuplas
