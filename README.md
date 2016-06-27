@@ -4,7 +4,7 @@
 ### Elementos Básicos
 - 101 Variables y Comentarios
 - 102 Tipos de datos
-- Operadores Aritméticos
+- 103 Operadores Aritméticos
 - Tipos de datos Complejos
   - Tuplas
   - Listas
