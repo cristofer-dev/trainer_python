@@ -5,9 +5,10 @@
 - 101 Variables y Comentarios
 - 102 Tipos de datos
 - 103 Operadores Aritméticos
-- Tipos de datos Complejos
+- 104 Tipos de datos Complejos
   - Tuplas
   - Listas
   - Diccionarios
+- 105 Asignación Multiple
 
 ### Estructuras de Control de flujo
