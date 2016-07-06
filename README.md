@@ -21,3 +21,6 @@
 - 202 Ciclos
   - while
   - for
+
+### Funciones
+-301 Funciones
