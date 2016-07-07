@@ -23,4 +23,7 @@
   - for
 
 ### Funciones
--301 Funciones
+- 301 Funciones
+  - Basicas
+  - Con Parametros
+  - Con Parametros por defecto
